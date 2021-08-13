@@ -1,3 +1,3 @@
-# Python
+# Plant Leaf Detection
 
-hello all,
+1.Using Flavia Dataset Process on Single image
